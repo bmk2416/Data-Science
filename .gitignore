@@ -1,3 +1,5 @@
 AMD.csv
 keys.py
-__pycache__/keys.cpython-311.pyc
+Stocks/__pycache__/keys.cpython-311.pyc
+VT API/__pycache__/keys.cpython-311.pyc
+.gitignore
